@@ -43,7 +43,3 @@ https://www.apachefriends.org/download.html
 ![picture alt](/SnapShot/PendingRequest.png "Pending Request")
 ![picture alt](/SnapShot/ChatRoom.png "Chat Room")
 
-<h3 align="center"> <b>Copyright & Powered By</b> </h3>
-<p align="right"><b>Smit Shah</br>smitshah22050602@gmail.com</br>8849364239</br></b></p>
-
-<h3 align="center"> <b>Thank You..!!! :)</b> </h3>
